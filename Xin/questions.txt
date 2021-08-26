@@ -1,1 +1,5 @@
 Xin Huang
+
+It tell me that "Your branch is up to date with 'origin/master'.
+
+It created the Xin file and the questions.txt showed up in the file. There are 2 questions.txt one updated the words and the other didn't I think it happened because the file actually contians elements of stuff now. The extra questions file might be because the file wasn't really moved or whatever as Mr.Kostin say it's just how our human brain process's it. 
