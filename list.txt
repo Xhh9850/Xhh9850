@@ -1,0 +1,63 @@
+    12
+
+commit e06223ab3b2a1e8898dc25624a9a199d8580b0ab
+Merge: de66100 867526a
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Fri Aug 27 17:46:57 2021 -0400
+
+    Merge https://github.com/Xhh9850/Xhh9850
+
+commit de66100f23bda67d21dccb8288b18743f589b65b
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Fri Aug 27 17:41:47 2021 -0400
+
+
+    3
+
+commit 1dac376b1b15a942600838aa849284e27d618df5
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Fri Aug 27 17:39:41 2021 -0400
+
+    1
+
+commit fcd4baa2fa2bdc1bc6cadb2ad3315f37d0292dcb
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Fri Aug 27 17:16:07 2021 -0400
+
+    pdf
+
+commit 867526a882477480683f1818699fb73a613117eb
+Author: Xhh9850 <89423647+Xhh9850@users.noreply.github.com>
+Date:   Thu Aug 26 15:22:58 2021 -0400
+
+    Delete questions.txt
+
+commit 99d609030b267c350a9720ba7216976bcf9f486d
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Thu Aug 26 15:21:11 2021 -0400
+
+    2
+
+commit d50c3dd0fdd11c4a856b5d881448cfaed2298876
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Thu Aug 26 15:03:23 2021 -0400
+
+    4
+
+commit 00f92c63dd7c2fb05f16761b54b5926c8b59ccfe
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Thu Aug 26 14:41:43 2021 -0400
+
+    3
+
+commit 6391195b6dd12d2940d79f4078b5309f432f3034
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Thu Aug 26 14:38:30 2021 -0400
+
+    2
+
+commit 4daeb587026786344effed01b2c7ba3cfe296818
+Author: Xhh9850 <Xhh9850@g.rit.edu>
+Date:   Thu Aug 26 14:02:08 2021 -0400
+
+    1
